@@ -1,5 +1,5 @@
 # sb-dsp-firmware
-D52 .ctl files for studying SB16 firmware.
+D52 .ctl files for studying ISA Sound Blaster firmware.
 
 Extends upon research done by Tube Time: https://github.com/schlae/sb-firmware
 
@@ -9,6 +9,8 @@ Bugs exist in some versions of SB DSP code. We seek to understand these bugs and
 as developers of software that utilizes the devices they're attached to, understand
 either how to resolve or work around them. This research also drives the development
 of legacy sound device emulators.
+
+A longer term goal might include DSP code free from bugs, fixed by the community.
 
 ### Requirements
 
